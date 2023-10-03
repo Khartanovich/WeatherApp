@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_home">Поиск</string>
+    <string name="title_dashboard">Города</string>
+    <string name="name_city">name city</string>
+    <string name="enter_name_city">введите название города</string>
+    <string name="back">back</string>
+</resources>
